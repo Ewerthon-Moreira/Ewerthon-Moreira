@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java Script
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on Front-end
-- 📫 How to reach me ewerthonm53@gmail.com
+- 📫 How to reach me
 
 <!---
 Ewerthon-Moreira/Ewerthon-Moreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
